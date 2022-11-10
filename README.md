@@ -6,8 +6,8 @@ The purpose of this project was to apply the JavaScript tools learned during wee
 
 ### To Deploy 
 
-- Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to the deployed website.
-- Click [here](quora.com/profile/Ashish-Kulkarni-100) to go my GitHub repo
+- Click [here](https://ktd10.github.io/super-secure-password-generator/) to go to the deployed website.
+- Click [here](https://github.com/KTD10/super-secure-password-generator) to go my GitHub repo
 
 ### Once Deployed 
 
