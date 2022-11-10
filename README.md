@@ -1,1 +1,2 @@
-# super-secure-password-generator
+# Super Secure Password Generator 
+
