@@ -46,10 +46,11 @@ Once all criteria is selected, secure password is desplayed
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/110429983/201190436-aacfc445-1876-4af2-a9ac-d3874ed98ca5.png)
 
-If user inputs a value less than 8 or greater than 128, user is prompted the criteria 
+If user inputs a value less than 8 or greater than 128, user is prompted with the criteria 
 
 
-![Screenshot (20)](https://user-images.githubusercontent.com/110429983/201190512-87e5b74d-d5f7-431d-a9e0-0d3c80402283.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/110429983/201194052-0a07e8bf-a207-4756-94bd-67e9a8741177.png)
+
 
 If user does not select any values for password, user is prompted a reminder that the password must contain characters
 
